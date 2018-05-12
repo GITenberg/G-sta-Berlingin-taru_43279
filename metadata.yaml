@@ -1,0 +1,41 @@
+_repo: G-sta-Berlingin-taru_43279
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2013-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43279'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Gösta Berlingin taru
+url: http://www.gutenberg.org/ebooks/43279
