@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43279#G-sta-Berlingin-taru
 gutenberg_issued: '2013-07-22'
 gutenberg_type: Text
 identifiers:
